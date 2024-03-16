@@ -83,22 +83,7 @@ header {
     font-size: 200%;
     z-index: 1; /* Ensure the text is above the overlay */
 }
-/*
-.try {
-    background-image: url('newbgbg.jpg');
-    background-size: cover;
-    background-position: center;
-    height: 50vh; 
-    color: #fff; 
-    padding: 30px;
-}
-*/
 
-
-.lele{
-
-    background-color: #000000;
-}
 .About {
     background-color: #000000;
     color: #ddd;
@@ -156,6 +141,7 @@ flex-basis: 40%;
     margin-top: -50px;
     position: relative;
     color: #eee;
+    padding: 30px;
 }
 .slider .list .item{
     position: absolute;
